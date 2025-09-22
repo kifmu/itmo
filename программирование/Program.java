@@ -38,7 +38,7 @@ public class Program{
 		
 		for (int i = 0; i < 11; i++) {
 			for (int j = 0; j < 10; j++) {
-				System.out.printf( "%.5f\t", thirdMassive[i][j]);
+				System.out.printf( "%.5f ", thirdMassive[i][j]);
 			}
 			System.out.println();
 		}
